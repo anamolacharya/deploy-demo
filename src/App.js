@@ -5,20 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Amazon deploy demo</h1>
       </header>
-      <h2>This is a Amazon deploy demo</h2>
+      <h2>
+        This project is used to self learn CI/CD worlflow using github actions
+        and deploy in AWS ECR.
+      </h2>
     </div>
   );
 }

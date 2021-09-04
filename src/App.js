@@ -9,7 +9,7 @@ function App() {
       </header>
       <h2>
         This project is used to self learn CI/CD worlflow using github actions
-        and deploy in AWS ECR.
+        and deploy in AWS ECR. Anamol Acharya
       </h2>
     </div>
   );
